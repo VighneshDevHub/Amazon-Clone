@@ -1,0 +1,23 @@
+@media  screen and (max-width: 1400px) {
+    .navbar{
+        background-color:#0f1111;
+    }
+
+    .panel-all{
+        
+    }
+
+    
+    .panel-all-ops{
+        display: flex;
+        overflow-x: auto; /* Enables horizontal scrolling */
+        white-space: nowrap; /* Prevents items from wrapping to the next line */
+        align-items: center;
+        scrollbar-width: none;
+    }
+
+    .panel-img{
+        
+    }
+    
+}
